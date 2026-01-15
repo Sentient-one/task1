@@ -1,1 +1,1 @@
-# task1
+In this task, I installed Ubuntu Linux and accessed it through the terminal. I used basic Linux commands to move around the file system, create and delete files and folders, and view or edit files. I also checked and changed file permissions and ownership, and monitored system resources using standard Linux tools. All the commands and outputs were documented in a markdown file. Overall, this task helped me get comfortable using the Linux terminal for everyday operations.
